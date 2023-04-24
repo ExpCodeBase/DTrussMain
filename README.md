@@ -31,3 +31,7 @@ This is the codebase of the Dynamic D-truss Search.
 
   batch insert:`./dm binsert <OLD_INDEX_PATH> <UPDATE_EDGE_PATH> <GROUND_TRUTH_PATH> <UPDATED_INDEX_PATH> <HELPER_FINDEX_PATH>`
 
+### Acknowledgment ###
+
+*Part of code is from [this work](https://dl.acm.org/doi/pdf/10.1145/3299869.3300082).*
+
